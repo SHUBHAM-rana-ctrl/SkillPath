@@ -1,0 +1,6 @@
+{
+  "name": "SkillPath - 10th Career & Education Guidance",
+  "description": "Comprehensive career guidance platform for 10th standard students to explore Diploma, 11th & 12th, and ITI pathways, compare courses, take career assessments, and find verified scholarships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
